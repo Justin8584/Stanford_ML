@@ -1,5 +1,6 @@
 
 Andrew Ng Machine Learing Course (from Stanford Online)
+https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization
 
 - Supervise Machine Learning
   - Linear Regression
